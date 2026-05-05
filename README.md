@@ -44,6 +44,13 @@ Frontend (React) -> Backend (Express API) -> PostgreSQL Database
 
 ---
 
+## Live Links
+
+- Backend API: https://leave-management-system-7zvp.onrender.com
+- Frontend App: https://leave-management-system-dusky.vercel.app
+
+---
+
 ## Folder Structure
 
 ```
