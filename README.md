@@ -200,7 +200,11 @@ These tools helped accelerate development while maintaining clean and modular co
 
 ## Demo
 
-(Add screenshots or a short 2 to 5 minute demo video here)
+### Screenshots
+
+![Login screen](Screenshots/1.png)
+![Employee dashboard](Screenshots/2.png)
+![Admin dashboard](Screenshots/3.png)
 
 ---
 
