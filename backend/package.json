@@ -6,7 +6,7 @@
     "dev": "tsx watch src/server.ts",
     "schema": "tsx scripts/apply-schema.ts",
     "build": "tsc",
-    "start": "node dist/server.js",
+    "start": "node dist/src/server.js",
     "seed": "tsx scripts/seed.ts"
   },
   "dependencies": {
