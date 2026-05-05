@@ -18,7 +18,7 @@ const pool = connectionString
       port: Number(process.env.PGPORT || 5432)
     });
 
-pool.on('error', (err) => {
+pool.on('error', (err: Error) => {
   console.error('Unexpected PG idle client error', err);
 });
 
